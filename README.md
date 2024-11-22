@@ -38,7 +38,7 @@ English - PDF
 German - Plain Text  
 German - PDF  
 
-## De Re Metallica Libri 12.
+## De Re Metallica.
 
 Latin - Plain Text  
 Latin - PDF | Biolinum | Kerkis | Auriocus  

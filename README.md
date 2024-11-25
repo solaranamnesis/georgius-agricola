@@ -4,7 +4,7 @@ Public Domain Works of Georgius Agricola (Georg Bauer) (1494-1555).
 
 ## De Ortu et Causis Subterraneorum.
 
-Latin - Plain Text  
+[Latin - Plain Text](de-ortu-et-causis-subterraneorum/full-text-latin.md)  
 Latin - PDF | Biolinum | Kerkis | Auriocus  
 English - Plain Text  
 English - PDF  

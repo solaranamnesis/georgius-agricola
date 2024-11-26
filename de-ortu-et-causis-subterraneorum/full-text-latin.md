@@ -22,5 +22,9 @@ Et enim motus et conversio astrorum concitatior eam citius accendit, ac certè s
 
 ## Cap. 3. --- Theophrasti sententia examinatur.
 
+Theophrastus autem puram et æqualem materiam fieri confluxione et percolatione rectè sentit. Sed non solum iis duobus modis fit talis, nec ea tametsi proxima materia est terræ insignis, omnis etiam est lapidis: Verùm aliis quoque modis fit pura et æqualis materia, ut cum succi solent oriri. Et interdum necesse est ut calor materiam iis duobus modis factam primò coquat, ut inde efficiat succum: ex quo tandem lapis, qui liquescat ignium calore, fieri possit. Atque in hoc multò magis peccat Theophrastus, quod omnes lapides, etiam preciosos, censent abundare terra. Inquit enim; eorum quæ in terra consistunt alia sunt aquea, alia terrena. Aquea quidem sunt metalla, ut aurum, argentum, et reliqua: terrena verò lapis, et lapidum species preciosæ, atque terrarum naturæ, quæ insignes sunt colore, vel lævore, vel spissitudine, aliave facultate. Nam si vera esset Theophrasti sententia, nulla inveniretur gemma quæ transluceret: iam verò multæ perlucent: Species igitur lapidum preciosæ non omnes sunt terrenæ. Ut enim paulò post ostendam, omnia solida simul et crassa, quæ translucent, aquea sunt: id est constant ex humore, in quo inest aqua, quæ terram vincit pondere.
+
+## Cap. 4. --- Avicennæ et Alberti sententiæ explicantur.
+
 ...
 
